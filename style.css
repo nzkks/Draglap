@@ -5,7 +5,7 @@
   height: 60px;
   text-align: center;
   padding-top: 40px;
-  border: 1px solid transparent;
+  border: 2px solid transparent;
   cursor: pointer;
 }
 
@@ -15,4 +15,17 @@
 
 .box2{
   background-color: rgba(0, 155, 0, .2);
+}
+
+.btc{
+  border-top-color: #0F0;
+}
+.brc{
+  border-right-color: #0F0;
+}
+.bbc{
+  border-bottom-color: #0F0;
+}
+.blc{
+  border-left-color: #0F0;
 }
